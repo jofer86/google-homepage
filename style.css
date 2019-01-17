@@ -7,4 +7,11 @@ margin: auto;
     display: block;
     width:561px;
     margin-top: 20px;
+   border-style: outset;
+   height:34px;
+   background:url(https://www.clipartmax.com/png/middle/15-159611_discussion%5D-opinions-on-the-new-microphone-icon-google-google-search-by-voice.png) no-repeat;
+   background-size: contain;
+   background-position: right;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
 }
