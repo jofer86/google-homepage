@@ -15,3 +15,65 @@ margin: auto;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 16px;
 }
+.topnav  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    
+
+       }
+.topnav li {
+    display: inline;
+    height: 30px;
+    position: relative;
+    bottom: 15px;
+    
+    
+}
+.dotted {
+    height: 30px;
+    width:30px;
+    position: relative;
+    top: 10px;
+}
+
+.item {
+ padding-left: 15px;
+ padding-right: 15px;
+ 
+
+}
+
+.button {
+    color: blue;
+    font-weight: bold;
+    background-color: #4285f4;
+    padding: auto  12;
+    color: white;
+    text-align: center;
+    height:28px;
+    width:83px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dosbuttons {
+    text-align: center;
+    background-color: #f8f8f8;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    height: 58px;
+    padding: 22px;
+    
+}
+.dosbuttons button{
+    height: 34px;
+    width: 120px;
+    color: #757575;
+    background-color: #f8f8f8;
+    padding: auto 16px;
+}
