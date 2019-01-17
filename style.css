@@ -1,0 +1,10 @@
+.doodle{
+display: block;
+margin: auto;
+}
+.sbar input[type=text] {
+    margin: auto;
+    display: block;
+    width:561px;
+    margin-top: 20px;
+}
