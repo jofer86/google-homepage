@@ -70,10 +70,12 @@ a {
     padding: 22px;
     
 }
-.dosbuttons button{
-    height: 34px;
+
+button{
     width: 120px;
+    height: 35px;
     color: #757575;
     background-color: #f8f8f8;
-    padding: auto 16px;
+    
+
 }
